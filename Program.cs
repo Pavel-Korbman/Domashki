@@ -8,7 +8,7 @@ if(firstNumber > secondNumber)
 }
 if(firstNumber < secondNumber)
 {
-    Console.WriteLine($"Первое число {firstNumber} меньше чем второе число {secondNumber}");
+    Console.WriteLine($"Первое число {firstNumber}' меньше чем второе число {secondNumber}");
 }
 if(firstNumber == secondNumber)
 {
